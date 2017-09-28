@@ -72,3 +72,36 @@ exploring methods to realize this utility via extensive error analysis
 +
 ```
 ****
+We conclude that even with such low error rates, ATIS test set still
+includes many unseen example categories and sequences, hence requires
+more data.
+```diff
++ 我们得出了这样的结论。即使在如此低的错误率下，ATIS测试集仍然包含了许多不常见的类别和序列的例子，
+为此要求我们去获取更多的数据。
+```
+```diff
++
+```
+****
+Better yet, new annotated larger data sets from
+more complex tasks with realistic utterances can avoid over-tuning
+in terms of modeling and feature design.
+```diff
++ 不过好在，从现实中的复杂的对话任务得到的新的拥有注释的数据集能够避免对模型和特征进行过度调整
+```
+```diff
++
+```
+****
+We believe that advancements
+in SLU can be achieved by having more naturally spoken data
+sets and employing more linguistically motivated features while preserving
+robustness due to speech recognition noise and variance due
+to natural language.
+```diff
++ 我们相信SLU的发展能通过拥有更多自然的口语数据集和运用更多的情感语言特征来实现，
+同时保留由语音识别噪音的稳定性和由不同原生语言导致的差异。
+```
+```diff
++
+```
