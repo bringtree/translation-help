@@ -31,8 +31,7 @@ in spoken dialog systems is the airline travel information system
 (ATIS) corpus
 
 ```diff
-+ airline travel information system(简称ATIS)这个数据集是过去20年里被用来做口语识别(简称SLU)研究的
-主要数据资源库之一。
++ airline travel information system(简称ATIS)这个数据集是过去20年里被用来做口语识别(简称SLU)研究的主要数据资源库之一。
 ```
 ```diff
 +
@@ -43,8 +42,7 @@ Two primary tasks in SLU are intent determination
 5% for both of these tasks employing discriminative machine learning
 techniques with the ATIS test set.
 ```diff
-+ SLU的2个重要任务是意图推测(简称ID) 和 槽位填充(简称SF)。
-最近的研究表明通过采用机器学习判别技术，能使得机器在测试ATIS这个数据集时错误率低于5%
++ SLU的2个重要任务是意图推测(简称ID) 和 槽位填充(简称SF)。最近的研究表明通过采用机器学习判别技术，能使得机器在测试ATIS这个数据集时错误率低于5%
 ```
 ```diff
 +
@@ -76,8 +74,7 @@ We conclude that even with such low error rates, ATIS test set still
 includes many unseen example categories and sequences, hence requires
 more data.
 ```diff
-+ 我们得出了这样的结论。即使在如此低的错误率下，ATIS测试集仍然包含了许多不常见的类别和序列的例子，
-为此要求我们去获取更多的数据。
++ 我们得出了这样的结论。即使在如此低的错误率下，ATIS测试集仍然包含了许多不常见的类别和序列的例子，为此要求我们去获取更多的数据。
 ```
 ```diff
 +
@@ -99,8 +96,7 @@ sets and employing more linguistically motivated features while preserving
 robustness due to speech recognition noise and variance due
 to natural language.
 ```diff
-+ 我们相信SLU的发展能通过拥有更多自然的口语数据集和运用更多的情感语言特征来实现，
-同时保留由语音识别噪音的稳定性和由不同原生语言导致的差异。
++ 我们相信SLU的发展能通过拥有更多自然的口语数据集和运用更多的情感语言特征来实现，同时保留由语音识别噪音的稳定性和由不同原生语言导致的差异。
 ```
 ```diff
 +
