@@ -16,7 +16,7 @@ user achieve the task that the system is designed to support.
 Spoken language understanding (SLU) aims to extract the meaning
 of the speech utterances.
 ```diff
-+ SLU的目的是提取出语音的意思。
++ SLU的目的是提取出语音的语义。
 ```
 
 ****
@@ -35,7 +35,7 @@ intent of the user as expressed in natural language, extract associated
 arguments or slots, and take actions accordingly to satisfy the user’s
 requests.
 ```diff
-+ 这些系统旨在自动地辨认当用户表达自然语言的意图，获取语句间或者槽位间的联系，
++ 这些系统的目的是自动地识别用户表达的自然语言的意图，获取语句间的联系和槽位，
 同时采取行动来满足用户的请求。
 ```
 
@@ -46,20 +46,6 @@ using an automatic speech recognizer (ASR).
 + 在这样的系统里，通常使用一个自动语音识别器（ASR）来识别说话者的言语。
 ```
 
-****
-Then the intent of the speaker is identified from the recognized word sequence using
-an SLU component.
-```diff
-+ 获取语句的联系或者槽位的联系，同时根据用户请求的满意度采取行动
-```
-
-****
-In such systems, the speaker’s utterance is typically recognized
-using an automatic speech recognizer (ASR).
-
-```diff
-+ 在这样的系统里，通常使用一个自动语音识别器（ASR）来识别说话者的语言
-```
 
 ****
 Then the intent of the speaker is identified
@@ -73,7 +59,7 @@ Finally, a dialog or task manager (DM) interacts with
 the user (not necessarily in natural language)
 and helps the user achieve the task that the system is designed to support.
 ```diff
-+ 最后，对话框或者任务管理（DM）与用户(不一定是自然语言) 交互，
++ 最后，对话管理（DM）与用户(不一定是自然语言) 交互，
 并帮助用户实现这个系统被设计支持好的任务。
 ```
 

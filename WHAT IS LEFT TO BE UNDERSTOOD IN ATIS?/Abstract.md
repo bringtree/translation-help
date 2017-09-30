@@ -53,7 +53,7 @@ While these low error rates
 may suggest that this task is close to being solved, further analysis
 reveals the continued utility of ATIS as a research corpus.
 ```diff
-+ 然而这样的低错误率似乎在表明这个任务将要被解决了，进一步分析揭示ATIS作为一个研究的数据集是持续有效的。
++ 而这样的低错误率似乎在表明这项任务将要被解决了，这样也更进一步表明ATIS作为一个研究的数据集是持续有效的。
 ```
 ```diff
 +
