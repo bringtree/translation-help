@@ -31,7 +31,7 @@ in spoken dialog systems is the airline travel information system
 (ATIS) corpus
 
 ```diff
-+ airline travel information system(简称ATIS)这个数据集是过去20年里被用来做口语识别(简称SLU)研究的主要数据资源库之一。
++ airline travel information system(简称ATIS)这个数据集是过去20年里被用来做口语理解(简称SLU)研究的主要数据资源库之一。
 ```
 ```diff
 +
@@ -64,7 +64,7 @@ our goal is not experimenting with domain specific techniques or
 features which can help with the remaining SLU errors, but instead
 exploring methods to realize this utility via extensive error analysis
 ```diff
-+ 在这篇论文里，我们的目标不是去尝试特定领域的技术或者用剩下的SLU错误的特征(不知道怎么翻译),而是坚持去探索方法通过对错误的广泛分析来意识到功用。
++ 在这篇论文里，我们的目标不是去尝试特定领域的技术或者可以对解决剩余的SLU错误有帮助的功能,而是坚持去探索通过广泛的错误分析来实现的方法。
 ```
 ```diff
 +
