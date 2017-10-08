@@ -15,3 +15,6 @@ def compareList(ori_list, test_list):
         if test_list[i+1] == ori_list[j+1]:
           count_list[i]+=1
   return count_list
+import numpy as np
+
+np.linspace()
